@@ -1,4 +1,4 @@
-Updated: Dec. 17, 2017
+Updated: Feb. 07, 2018
 
 ### ADDA_pySpherepts_171217
 
@@ -14,6 +14,7 @@ A tool to obtain the [beta_gamma.tbl] using [the pySpherepts package](https://gi
     - sample script to obtain [beta_gamma.tbl] for
         - IcosNodes
         - HammersleyNodes
+        - FibonacciNodes
 
 `test_XXX.py` scripts are prepared to show how to use the main script.
 
@@ -30,6 +31,7 @@ Then, execute the following'
 $ python3 make_beta_gamma_tbl_pySphere_171217.py 
 [beta_gamma_gIN.tbl] is created
 [beta_gamma_gHN.tbl] is created
+[beta_gamma_gFN.tbl] is created
 ```
 
 ### Example plot
